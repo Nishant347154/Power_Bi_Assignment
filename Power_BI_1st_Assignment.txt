@@ -1,0 +1,39 @@
+What do you mean by BI? Explain.
+----> . BI stands for Business Intelligence .With the helpk of Power Bi we can create Dashborad
+      . using Power BI comanpany makes Buisness Decisions 
+      . Power BI converts Numerical data into a Dashboards 
+
+
+How Power-BI helps in BI, and how does it help Analysts? Explain.
+---> For Business Intelligence:
+
+Data Integration: Connects to various data sources.
+Data Modeling: Shapes and transforms data for analysis.
+Data Visualization: Offers a range of visualization options.
+Analytics and Insights: Provides built-in analytics features for deeper insights.
+For Analysts:
+
+Self-Service Analytics: Enables independent report creation.
+Collaboration and Sharing: Facilitates easy sharing of reports.
+Mobile Access: Provides mobile apps for on-the-go access.
+Integration with Microsoft Ecosystem: Seamlessly integrates with other Microsoft tools.
+
+Explain Descriptive analytics?
+---> . Descriptive analytics involves analyzing historical data to understand what has happened in the past
+     . Its primary goal is to provide a clear and concise overview of data to support decision-making and inform future actions.
+     . Example - analyzing website traffic data to determine peak visit times throughout the day.
+
+
+Explain Predictive analytics?
+---> . Predictive analysis is the process of using data, statistical algorithms, and machine learning techniques to predict future outcomes based on historical data. 
+     . example predict price of Rooms in future using machine learning Algiorithms .
+Explain perspective analytics?
+
+Write five real-life questions that PowerBi can solve.
+---> 
+1 . What are the monthly sales trends for our product lines, and which regions or customer segments are driving the most revenue?
+2 . How does customer satisfaction vary across different service channels (e.g., phone, email, chat), and what improvements can be made to enhance the customer experience?
+3 .Give Top representatives Region Wise On Basis Of sales 
+4 . What are the primary reasons for delays in our manufacturing process, and how can we streamline operations to improve efficiency and meet production deadlines?
+5 . How does website traffic correlate with online sales, and what strategies can be implemented to increase conversion rates and drive revenue growth?
+
