@@ -1,0 +1,56 @@
+Explain DAX.
+--->DAX (Data Analysis Expressions) is a formula language used in Power BI, Excel Power Pivot, and SQL Server Analysis 
+ Services (SSAS) Tabular models. It allows users to create custom calculations, manipulate data, and build sophisticated 
+ data models using formulas and functions tailored for working with tables and columns. DAX operates within row and filter
+ contexts and supports calculated columns, measures, relationships, and hierarchies, making it a powerful tool for data 
+ analysis and modeling.
+
+
+
+Explain datasets, reports, and dashboards and how they relate to each other?
+--->Datasets are collections of data, reports visualize and analyze the data, and dashboards provide a consolidated view 
+ of insights derived from the data. Datasets serve as the foundation for reports, which in turn contribute to dashboards,
+ offering users a comprehensive data visualization and analysis experience.
+
+How reports can be created in power BI, explain two ways with Navigation of each.
+--->Reports in Power BI can be created:
+
+Using Power BI Desktop:
+Download Power BI Desktop.
+Import data and design visualizations using drag-and-drop.
+Customize and save the report.
+Using Power BI Service:
+
+Sign in to Power BI Service.
+Create a new report and import data.
+Design visualizations using the web interface.
+Save or publish the report.
+
+How to connect to data in Power BI? How to use the content pack to connect to google analytics? Mention the steps.
+--->To connect to data in Power BI:
+
+Open Power BI Desktop or navigate to Power BI Service.
+Click on "Get Data" and choose your data source.
+To use the content pack to connect to Google Analytics:
+
+In Power BI Service, click on "Get Data" and select "Content Packs."
+Search for "Google Analytics" and select it.
+Connect to your Google Analytics account and choose the data to import.
+Customize settings and click "Load" to import the data into Power BI.
+
+How to import Local files in Power BI? Mention the Steps.
+--->To import local files in Power BI:
+Open Power BI Desktop.
+Click on "Get Data" in the Home tab.
+Choose the file type you want to import (e.g., Excel, CSV).
+Select the file from your local directory.
+Review and transform data if needed.
+Click "Close 
+
+In Power BI visualization, what are Reading View and Editing view?
+--->In Power BI visualization:
+. Reading View: It's the view where users can interact with and explore the visualizations without making changes to the 
+ report. Users can view the data, apply filters, and drill down into details.
+. Editing View: It's the view where users can make changes to the report, such as adding or modifying visualizations,
+  adjusting formatting, and creating calculations. It provides access to the report design tools and allows users to customize the report layout and content.
+

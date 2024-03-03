@@ -1,0 +1,43 @@
+List and explain different PowerBi products?
+--->Power BI Desktop: Free desktop application for creating data models, reports, and visualizations.
+    Power BI Service: Cloud-based platform for sharing, collaborating, and distributing reports and dashboards.
+    Power BI Mobile Apps: Mobile applications for accessing and interacting with reports and dashboards on iOS, Android,
+    and Windows devices.
+    Power BI Report Server: On-premises report server for hosting and managing Power BI reports and dashboards within 
+    organizations' infrastructure.
+    Power BI Embedded: Platform-as-a-service offering for embedding Power BI reports and dashboards into custom 
+    applications.
+
+What limitations of Excel, Microsoft solved by PowerBi?
+--->
+ Power BI addresses limitations of Excel by offering:
+
+. Improved scalability and performance for handling large datasets.
+. Enhanced data connectivity with support for various sources.
+. Richer visualization options for more compelling insights.
+. Seamless sharing and collaboration through its cloud-based platform.
+. Real-time data analysis capabilities, which Excel lacks.
+
+Explain PowerQuery?
+--->Power Query is a data preparation tool that allows users to import, transform, and manipulate data from various
+  sources. It simplifies the process of cleaning, shaping, and enriching data before analysis, offering features such as
+  data import, transformation, enrichment, modeling, loading, and automation.
+
+Explain PowerMap?
+--->Power Map is a 3D data visualization tool in the Microsoft Power BI suite. It allows users to plot geographic and 
+  temporal data on interactive 3D globes or custom maps. With features like geospatial visualization, time animation, 
+  interactive exploration, customization, data integration, and sharing, Power Map enables users to gain insights and tell compelling stories with their data.
+
+
+How powerBi eliminated the need to host SharePoint Server on premises?
+--->Power BI eliminates the need to host SharePoint Server on-premises by providing a cloud-based platform for sharing, 
+ collaborating, and distributing reports and dashboards. Users can publish Power BI reports directly to the Power BI 
+ Service, where they can be accessed and viewed by others in the organization without the need for SharePoint infrastructure.
+  This cloud-based approach reduces the complexity and cost associated with maintaining on-premises SharePoint servers and 
+  provides greater flexibility and scalability for sharing and collaborating on data insights.
+
+Explain the updates done in Power Bi Service(power BI 2.0) as compared to older version ?
+--->Power BI 2.0, or the updated Power BI Service, brings a redesigned user interface, improved performance, enhanced
+   collaboration features, advanced analytics capabilities including AI and ML integration, and expanded data connectivity 
+    options compared to older versions.
+
